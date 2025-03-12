@@ -12,11 +12,8 @@ Other aspects of LLM development that must be explored:
 * **Evaluation:** Evaluating the performance of trained LLMs using various metrics.
 
 ## Contents
-
-<!-- * **`online_research_assistant.ipynb`:** Build an AI-powered research assistant that can autonomously search the web and summarize articles using SmolAgents. -->
-* **`AI_Research_Assistant_with_SmolAgents_Marktechpost.ipynb`:** Build an AI-powered research assistant that can autonomously search the web and summarize articles using SmolAgents.
-<!-- * **`text_to_image_interactive.ipynb`:** Notebook to build an interactive text-to-image generator application. -->
-* **`Text_to_ImageGenerationwithDiffusers&Gradio_Marktechpost.ipynb`:** Notebook to build an interactive text-to-image generator application.
+* **`online_research_assistant.ipynb`:** Build an AI-powered research assistant that can autonomously search the web and summarize articles using SmolAgents.
+* **`text_to_image_interactive.ipynb`:** Notebook to build an interactive text-to-image generator application.
 <!-- * **`[Add more notebooks here, with a short description]`** -->
 
 ## Getting Started
